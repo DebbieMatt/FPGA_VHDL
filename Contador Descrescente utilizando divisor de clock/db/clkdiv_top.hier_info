@@ -1,0 +1,65 @@
+|clkdiv_top
+mclk => clkdiv:C1.mclk
+ld[0] <= clkdiv:C1.clk1
+ld[1] <= clkdiv:C1.clk2
+ld[2] <= clkdiv:C1.clk3
+
+
+|clkdiv_top|clkdiv:C1
+mclk => q[0].CLK
+mclk => q[1].CLK
+mclk => q[2].CLK
+mclk => q[3].CLK
+mclk => q[4].CLK
+mclk => q[5].CLK
+mclk => q[6].CLK
+mclk => q[7].CLK
+mclk => q[8].CLK
+mclk => q[9].CLK
+mclk => q[10].CLK
+mclk => q[11].CLK
+mclk => q[12].CLK
+mclk => q[13].CLK
+mclk => q[14].CLK
+mclk => q[15].CLK
+mclk => q[16].CLK
+mclk => q[17].CLK
+mclk => q[18].CLK
+mclk => q[19].CLK
+mclk => q[20].CLK
+mclk => q[21].CLK
+mclk => q[22].CLK
+mclk => q[23].CLK
+mclk => q[24].CLK
+mclk => q[25].CLK
+clr => q[0].ACLR
+clr => q[1].ACLR
+clr => q[2].ACLR
+clr => q[3].ACLR
+clr => q[4].ACLR
+clr => q[5].ACLR
+clr => q[6].ACLR
+clr => q[7].ACLR
+clr => q[8].ACLR
+clr => q[9].ACLR
+clr => q[10].ACLR
+clr => q[11].ACLR
+clr => q[12].ACLR
+clr => q[13].ACLR
+clr => q[14].ACLR
+clr => q[15].ACLR
+clr => q[16].ACLR
+clr => q[17].ACLR
+clr => q[18].ACLR
+clr => q[19].ACLR
+clr => q[20].ACLR
+clr => q[21].ACLR
+clr => q[22].ACLR
+clr => q[23].ACLR
+clr => q[24].ACLR
+clr => q[25].ACLR
+clk1 <= q[23].DB_MAX_OUTPUT_PORT_TYPE
+clk2 <= q[24].DB_MAX_OUTPUT_PORT_TYPE
+clk3 <= q[25].DB_MAX_OUTPUT_PORT_TYPE
+
+
