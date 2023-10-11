@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'mclk'
+Slack : -2.389
+TNS   : -34.913
+
+Type  : Slow 1200mV 85C Model Setup 'clock_pulse:clkpulse|delay1'
+Slack : -1.370
+TNS   : -8.537
+
+Type  : Slow 1200mV 85C Model Setup 'clkdiv:divider|q[17]'
+Slack : -0.149
+TNS   : -0.149
+
+Type  : Slow 1200mV 85C Model Hold 'clkdiv:divider|q[17]'
+Slack : -0.019
+TNS   : -0.019
+
+Type  : Slow 1200mV 85C Model Hold 'mclk'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock_pulse:clkpulse|delay1'
+Slack : 0.493
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mclk'
+Slack : -3.000
+TNS   : -34.227
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_pulse:clkpulse|delay1'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkdiv:divider|q[17]'
+Slack : -1.487
+TNS   : -4.461
+
+Type  : Slow 1200mV 0C Model Setup 'mclk'
+Slack : -2.057
+TNS   : -29.791
+
+Type  : Slow 1200mV 0C Model Setup 'clock_pulse:clkpulse|delay1'
+Slack : -1.139
+TNS   : -6.919
+
+Type  : Slow 1200mV 0C Model Setup 'clkdiv:divider|q[17]'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Slow 1200mV 0C Model Hold 'clkdiv:divider|q[17]'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mclk'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock_pulse:clkpulse|delay1'
+Slack : 0.457
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mclk'
+Slack : -3.000
+TNS   : -34.227
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_pulse:clkpulse|delay1'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkdiv:divider|q[17]'
+Slack : -1.487
+TNS   : -4.461
+
+Type  : Fast 1200mV 0C Model Setup 'mclk'
+Slack : -0.484
+TNS   : -4.081
+
+Type  : Fast 1200mV 0C Model Setup 'clock_pulse:clkpulse|delay1'
+Slack : -0.022
+TNS   : -0.040
+
+Type  : Fast 1200mV 0C Model Setup 'clkdiv:divider|q[17]'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mclk'
+Slack : -0.103
+TNS   : -0.103
+
+Type  : Fast 1200mV 0C Model Hold 'clkdiv:divider|q[17]'
+Slack : -0.064
+TNS   : -0.064
+
+Type  : Fast 1200mV 0C Model Hold 'clock_pulse:clkpulse|delay1'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mclk'
+Slack : -3.000
+TNS   : -25.375
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_pulse:clkpulse|delay1'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkdiv:divider|q[17]'
+Slack : -1.000
+TNS   : -3.000
+
+------------------------------------------------------------

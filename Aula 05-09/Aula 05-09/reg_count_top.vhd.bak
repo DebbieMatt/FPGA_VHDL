@@ -1,0 +1,41 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity reg_count_top is
+port (
+      mclk: in std_logic;
+	   btn_clk: in std_logic; --botão de clock
+		btn:sel: in std_logic; --botão de seleção
+		a_to_g: out std_logic_vector(6 downto 0);
+		an: out std_logic_vector(3 downto 0);
+		dp: out std_logic
+);
+end reg_count_top;
+
+architecture structural of reg_count_top is
+
+component clkdiv
+
+
+
+
+
+end component;
+
+component clk_pulse
+
+end component;
+
+component x7seg
+
+end component;
+
+component reg_count
+
+end component;
+begin
+     
+
+
+
+end structural;
