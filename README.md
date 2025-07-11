@@ -1,4 +1,4 @@
-# VHDL Utilizando QUARTUS II no FPGA ALTERA com Cyclone IV
+# Projeto FPGA com Quartus II e VHDL
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -6,18 +6,24 @@
   </a>
 </p>
 
-> Consiste em um repositório destinado a armazenar programas realizados na Disciplina de Arquitetura de Computadores.
+> Este repositório contém projetos desenvolvidos para a Placa de Desenvolvimento FPGA Altera Cyclone IV EP4CE6E22C8N, utilizando o Intel® Quartus® II Web Edition como ambiente de desenvolvimento, enquanto cursava a disciplina de Arquitetura de Computadores.
 
-## 💻 Pré-requisitos
+## 💻 Pré-requisitos de Ferramentas e Configurações Necessárias
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `Quartus II`, senão basta acessar ao seguinte link e instalar: <a href= "https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" >Intel® Quartus® II Web Edition Design Software.</a>
-- Placa de Desenvolvimento `FPGA Altera Cyclone IV EP4CE6E22C8N`. 
+- Você instalou a versão mais recente de `Quartus II` Software principal para síntese, compilação e programação da FPGA, link para download: <a href= "https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" >Intel® Quartus® II Web Edition Design Software.</a>
+- Placa de Desenvolvimento `FPGA Altera Cyclone IV EP4CE6E22C8N` (suporta projetos em VHDL/Verilog).. 
 - Você tem uma máquina `Windows / Linux / Mac`.
 - Você leu [Especificações de Instrução e Execução de programas VHDL]().
 
-## 🚀 Instalando o Trabalho Final
+## Objetivo do Projeto
+
+- Implementação de circuitos digitais em FPGA.
+- Exemplos de lógica combinacional, sequencial e sistemas embarcados.
+- Testes práticos com periféricos (LEDs, botões, displays, etc.).
+
+## 🚀 Instalando o Repositório
 
 Para clonar o código do caixa de supermercado, no Linux / macOS / Windows, basta abrir o terminal e colar o seguinte comando:
 
