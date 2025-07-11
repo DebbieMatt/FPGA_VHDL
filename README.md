@@ -1,6 +1,7 @@
 # STUDY of ASSEMBLY
 
-![VHDL](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=vhdl&logoColor=white)
+![VHDL](https://github.com/DebbieMatt/Arq_VHDL/blob/45812f323ae63c5405bf425adb605f396c3a6c22/21169439.png)
+
 ![Status](https://img.shields.io/static/v1?label=STATUS&message=INCOMPLETO&color=orange&style=for-the-badge)
 
 > Consiste em um repositório destinado a armazenar códigos e programas realizados na aula de Arquitetura de Computadores.
