@@ -1,4 +1,4 @@
-# VHDL UTILIZANDO QUARTUS II NO FPGA Altera com Cyclone IV
+# VHDL Utilizando QUARTUS II no FPGA ALTERA com Cyclone IV
 
 <p align="center">
   <a href="https://skillicons.dev">
