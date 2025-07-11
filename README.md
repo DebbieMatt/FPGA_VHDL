@@ -1,16 +1,19 @@
-# STUDY of ASSEMBLY
+# VHDL UTILIZANDO QUARTUS II NO FPGA Altera com Cyclone IV
 
-![VHDL](https://github.com/DebbieMatt/Arq_VHDL/blob/45812f323ae63c5405bf425adb605f396c3a6c22/21169439.png)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/DebbieMatt/Arq_VHDL/blob/45812f323ae63c5405bf425adb605f396c3a6c22/21169439.png"/>
+  </a>
+</p>
 
-![Status](https://img.shields.io/static/v1?label=STATUS&message=INCOMPLETO&color=orange&style=for-the-badge)
-
-> Consiste em um repositório destinado a armazenar códigos e programas realizados na aula de Arquitetura de Computadores.
+> Consiste em um repositório destinado a armazenar programas realizados na Disciplina de Arquitetura de Computadores.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `Quartus II`, senão basta acessar ao seguinte link e instalar: <a href= "https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" >Intel® Quartus® II Web Edition Design Software</a>  
+- Você instalou a versão mais recente de `Quartus II`, senão basta acessar ao seguinte link e instalar: <a href= "https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" >Intel® Quartus® II Web Edition Design Software.</a>
+- Placa de Desenvolvimento `FPGA Altera Cyclone IV EP4CE6E22C8N`. 
 - Você tem uma máquina `Windows / Linux / Mac`.
 - Você leu [Especificações de Instrução e Execução de programas VHDL]().
 
