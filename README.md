@@ -15,7 +15,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `Quartus II` Software principal para síntese, compilação e programação da FPGA, link para download: <a href= "https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" >Intel® Quartus® II Web Edition Design Software.</a>
 - Placa de Desenvolvimento `FPGA Altera Cyclone IV EP4CE6E22C8N` (suporta projetos em VHDL/Verilog).. 
 - Você tem uma máquina `Windows / Linux / Mac`.
-- Você leu [Especificações de Instrução e Execução de programas VHDL]().
+- Você leu o livro [VHDL - Descricao e Sintese de Circuitos Digitais](https://github.com/DebbieMatt/FPGA_VHDL/blob/2337db5dc0575d99e9f20ea855a6077e7f278b82/EXERCICIOS%20E%20LIVRO%20DE%20VHDL/VHDL_Descricao_e_Sintese_de_Circuitos_Di.pdf).
 
 ## Objetivo do Projeto
 
